@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dagna</h1>
+<h1 align="center">Hi 👋, I'm Agung Dagna</h1>
 <h3 align="center">Welcome to my GitHub profile!🧃🧃</h3>
 
 <p>- 🔭 I’m currently working on my Laravel project </p>
