@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dagna</h1>
 <h3 align="center">Welcome to my GitHub profile!🧃🧃</h3>
-- 🔭 I’m currently working on my Laravel project
-- 🌱 I’m currently learning TS and ML
+
+<p>- 🔭 I’m currently working on my Laravel project </p>
+<p>- 🌱 I’m currently learning TS and ML</p>
+
 <h3 align="left">Lang</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
