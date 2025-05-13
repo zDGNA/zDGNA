@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agung Dagna</h1>
 <h3 align="center">Welcome to my GitHub profile!🧃🧃</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zDGNA&label=Profile%20views&color=0e75b6&style=flat" alt="zDGNA" /> </p>
 
 <p>- 🔭 I’m currently working on my Laravel project </p>
 <p>- 🌱 I’m currently learning TS and ML</p>
@@ -68,7 +69,7 @@
 <a href="https://discord.gg/zDGNA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zDGNA" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zDGNA&label=Profile%20views&color=0e75b6&style=flat" alt="zDGNA" /> </p>
+
 
 <!--
 **zDGNA/zDGNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
