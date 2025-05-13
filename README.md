@@ -68,6 +68,9 @@
 <a href="https://discord.gg/zDGNA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zDGNA" height="30" width="40" /></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zDGNA&label=Profile%20views&color=0e75b6&style=flat" alt="zDGNA" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zDGNA" alt="zDGNA" /></a> </p>
 <!--
 **zDGNA/zDGNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
