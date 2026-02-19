@@ -63,7 +63,9 @@
 <a href="https://discord.gg/zDGNA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zDGNA" height="30" width="40" /></a>
 </p>
 
-"[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/zDGNA.png)](https://tryhackme.com/p/zDGNA)"
+'<a href="https://tryhackme.com/p/zDGNA">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/zDGNA.png" alt="TryHackMe Profile" />
+</a>'
 
 <!--
 **zDGNA/zDGNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
