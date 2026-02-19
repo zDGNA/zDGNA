@@ -64,7 +64,7 @@
 </p>
 
 '<a href="https://tryhackme.com/p/zDGNA">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/zDGNA.png" alt="TryHackMe Profile" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/zDGNA.png?v=refresh9" alt="TryHackMe Badge" />
 </a>'
 
 <!--
