@@ -33,8 +33,20 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+</a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40 height="40"/>
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src= "https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+</a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+</a> 
 </p>
+
 
 <h3 align="left">Tools</h3>
  <p align="left"> 
