@@ -40,7 +40,7 @@
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40 height="40"/>
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src= "[https://cdn.worldvectorlogo.com/logos/nextjs-2.svg](https://www.svgrepo.com/show/354112/nextjs.svg)" alt="nextjs" width="40" height="40"/>
+  <img src= "[https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=FFFFFF](https://www.svgrepo.com/show/354112/nextjs.svg)" alt="nextjs" width="40" height="40"/>
 </a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
